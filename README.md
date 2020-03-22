@@ -6,8 +6,8 @@
 
 #### 源码分析章节
 
-* [整体结构]([https://github.com/A-oei/JQuerySoundCode/blob/master/JQuery%E6%BA%90%E7%A0%81_1%20%E6%95%B4%E4%BD%93%E7%BB%93%E6%9E%84.md](https://github.com/A-oei/JQuerySoundCode/blob/master/JQuery源码_1 整体结构.md))
+* [整体结构](https://github.com/A-oei/JQuerySoundCode/blob/master/JQuery%E6%BA%90%E7%A0%81_1%20%E6%95%B4%E4%BD%93%E7%BB%93%E6%9E%84.md)
 
-* [init方法]()
+* [init方法](https://github.com/A-oei/JQuerySoundCode/blob/master/JQuery%E6%BA%90%E7%A0%81_1%20%E6%95%B4%E4%BD%93%E7%BB%93%E6%9E%84.md)
 
   
