@@ -4,6 +4,8 @@
 
 为了节省篇幅，我们这里不会直接放`jquery`的源码，会在文章中标注出代码是在源码的那个段落，可以配合下面的[jquery官方源码](http://code.jquery.com/jquery-2.0.3.js)进行查看
 
+如果想要整体看的话可以看我对源码的注释[$.js]()
+
 #### 源码分析章节
 
 * [整体结构](https://github.com/A-oei/JQuerySoundCode/blob/master/JQuery%E6%BA%90%E7%A0%811(%E6%95%B4%E4%BD%93%E7%BB%93%E6%9E%84).md)
@@ -11,3 +13,4 @@
 * [init方法](https://github.com/A-oei/JQuerySoundCode/blob/master/JQuery%E6%BA%90%E7%A0%812(init%E6%96%B9%E6%B3%95).md)
 
   
+
