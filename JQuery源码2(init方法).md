@@ -41,7 +41,7 @@ if (selector.charAt(0) == "<" && selector.charAt(selector.length - 1) === ">" &&
 | 传入格式 |                           转换格式                           |
 | :------: | :----------------------------------------------------------: |
 |   #id    | ["#id", undefined, "id", index: 0, input: "#id", groups: undefined] |
-| '<li>li' | "["<li>li", "<li>", undefined, index: 0, input: "<li>li", groups: undefined]" |
+| "<li>li" | "["<li>li", "<li>", undefined, index: 0, input: "<li>li", groups: undefined]" |
 |  .class  |                             null                             |
 |          |                                                              |
 
